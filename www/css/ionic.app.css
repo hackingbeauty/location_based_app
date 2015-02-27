@@ -7014,3 +7014,7 @@ a.button {
   opacity: 0;
   -webkit-transition-duration: 0s;
   transition-duration: 0s; }
+
+.thumbnail {
+  border: 1px solid #eee;
+  height: 80px; }
